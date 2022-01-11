@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GfG | MVP Architecture</string>
+    <string name="buttonText">Display Next Image</string>
+    <string name="heading">MVP Architecture Pattern</string>
+    <string name="subHeading">Model, View, Presenter Example Displaying Pokemon Images</string>
+    <string name="description">Pokemon</string>
+    <string  name="pokemon1">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png</string>
+    <string name="pokemon2">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/2.png</string>
+    <string name="pokemon3">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/3.png</string>
+    <string  name="pokemon4">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png</string>
+    <string name="pokemon5">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/5.png</string>
+    <string name="pokemon6">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png</string>
+    <string  name="pokemon7">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png</string>
+    <string name="pokemon8">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/8.png</string>
+    <string name="pokemon9">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/9.png</string>
+    <string name="pokemon10">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10.png</string>
+</resources>
